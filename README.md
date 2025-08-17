@@ -1,1 +1,1 @@
-# [KonyaKapsul](https://github.com/Laronax/KonyaKapsul)
+# https://github.com/Laronax/KonyaKapsul
